@@ -1,7 +1,7 @@
 import React from 'react';
 import './searchui-react-component.scss';
 
-export class Search extends React.Component {
+export default class Search extends React.Component {
     constructor(props) {
         super(props);
 
