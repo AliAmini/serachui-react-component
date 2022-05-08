@@ -1,7 +1,8 @@
 ## Install
 
 1. install package 
-	1. Run `npm install ssh://git@github.com:AliAmini/serachui-react-component.git`
+	- Run `npm i sakok-ant4-component` 	
+	- Or Run `npm install ssh://git@github.com:AliAmini/serachui-react-component.git`
 
 1. add component to your code
 	1. import on top of your app `import SearchUI from 'searchui-react-component';`
